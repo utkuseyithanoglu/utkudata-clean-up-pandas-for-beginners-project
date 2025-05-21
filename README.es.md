@@ -1,10 +1,10 @@
 <!--hide-->
-# Proyecto final del prework - Guía paso a paso
+# Limpieza de datos con Pandas para principiantes
 <!--endhide-->
 
-- Comprender un dataset nuevo.
-- Utilizar los conocimientos adquiridos en el prework para resolver las cuestiones planteadas.
-- Analizar, si fuera necesario, otras cuestiones.
+- Comprender y explorar conjuntos de datos reales usando herramientas de Pandas.
+- Limpiar, filtrar y transformar datos para extraer información valiosa.
+- Preparar los datos para análisis.
 
 <how-to-start>
   
