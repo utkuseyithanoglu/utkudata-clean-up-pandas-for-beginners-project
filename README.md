@@ -1,10 +1,10 @@
 <!--hide-->
-# Final prework project - Step by step guide
+# Data clean up Pandas for beginners
 <!--endhide-->
 
-- Understand a new dataset.
-- Use the knowledge acquired in the prework to solve the issues raised.
-- Analyze, if necessary, other questions.
+- Understand and explore real-world datasets using Pandas tools.
+- Clean, filter, and transform data to extract valuable insights.
+- Prepare data for analysis or machine learning models.
 
 <how-to-start>
   
